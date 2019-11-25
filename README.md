@@ -3,3 +3,12 @@
 ## Материалы
 ### Репозиторий с блоком Морфология:
 [Ссылка](https://github.com/Sdernal/Morphology)
+
+### Лекции по синтаксису:
+[Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/Syntactic_Parsing_new.pptx)
+
+### Семинар 1 по синтаксису
+[Colab](https://colab.research.google.com/drive/1K2IAbXOXbrqi2YCbbJ6OHxKGhHc8tdbM)
+
+### Семинар 2/дз по синтаксису
+[Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/prepare_seminar.sh)
