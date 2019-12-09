@@ -14,3 +14,6 @@
 [Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/prepare_seminar.sh)
 Задача - получить на PTB F1 > 0.93  И (на сконвертированном PTB UAS > 0.94 ИЛИ нанглийском подкорпусе из CoNLL2018 UAS - см. результаты соревнования )
 Дедлайн 16 декабря в 9:00. Присылать результаты на ivan.smurov@abbyy.com
+
+### Лекция. Извлечение отношения:
+[Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/relation_extraction.pptx)
