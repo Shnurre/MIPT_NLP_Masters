@@ -19,4 +19,4 @@
 [Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/relation_extraction.pptx)
 
 ### Лекция. Goal-oriented диалоговые системы:
-[Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/Goal-oriented\ диалоговые\ движки.pdf)
+[Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/Goal-oriented_диалоговые_движки.pdf)
