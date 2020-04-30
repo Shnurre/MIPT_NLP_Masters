@@ -26,7 +26,7 @@
 [Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/Goal-oriented_диалоговые_движки.pdf)
 
 ### Семинар. Goal-oriented диалоговые системы:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://https://colab.research.google.com/drive/1t8RRJJ0HC8FsDi_Y9DQ9XOkiNVxu84Fb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t8RRJJ0HC8FsDi_Y9DQ9XOkiNVxu84Fb)
 
 С ответами:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fnYG0dhrLZlVVmOeTdkDpD0sTldISRrp)
