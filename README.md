@@ -56,7 +56,7 @@
 [Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/summarization.pdf)
 
 ### Семинар
-[![Open In Colab](https://colab.research.google.com/drive/1x6HGG9dsuOQ7Yro64fmSKJv_YMjeYQaN)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x6HGG9dsuOQ7Yro64fmSKJv_YMjeYQaN)
 
 ## Вопросно-ответные системы
 ### Лекция 1.
