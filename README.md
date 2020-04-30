@@ -49,7 +49,7 @@
 [Download](https://github.com/Shnurre/MIPT_NLP_Masters/blob/master/NLP_TM.pdf)
 
 ### Семинар
-[![Open In Colab](https://colab.research.google.com/drive/1Qs-YTlPnKwGJBJpwShOhv7z5qDzCZ3nw)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qs-YTlPnKwGJBJpwShOhv7z5qDzCZ3nw)
 
 ## Саммаризация
 ### Лекция
